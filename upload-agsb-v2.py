@@ -33,7 +33,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "hyqaqw"         # 用户名
 UUID = "51a66044-d592-411d-9a64-920fcfb9be5b"                     # UUID，留空则自动生成
-PORT = 59748                   # Vmess端口，留空或0则自动生成
+PORT = 51748                   # Vmess端口，留空或0则自动生成
 DOMAIN = "cnm.ziyou123.eu.org"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMTE2Mzc1Y2NmMGE5YWFiZjQ1N2FiNDhlOGQ3MTMzYTMiLCJ0IjoiYjliMTNlNjAtYTVjNi00YmE2LWExN2QtNTgzMzNmODExZDY2IiwicyI6IlpEWXpPVEpqTWpndE5UazJPUzAwT1RGa0xXRTRaVFV0TmpreU56WmxNV1ZpTmpZMiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
