@@ -32,10 +32,10 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "hyqaqw"         # 用户名
-UUID = "51a66044-d592-411d-9a64-920fcfb9be5b"                     # UUID，留空则自动生成
-PORT = 51748                   # Vmess端口，留空或0则自动生成
-DOMAIN = "cnm.ziyou123.eu.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiMTE2Mzc1Y2NmMGE5YWFiZjQ1N2FiNDhlOGQ3MTMzYTMiLCJ0IjoiYjliMTNlNjAtYTVjNi00YmE2LWExN2QtNTgzMzNmODExZDY2IiwicyI6IlpEWXpPVEpqTWpndE5UazJPUzAwT1RGa0xXRTRaVFV0TmpreU56WmxNV1ZpTmpZMiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+UUID = "714f7618-6ce5-4498-872f-67727d120400"                     # UUID，留空则自动生成
+PORT = 41748                   # Vmess端口，留空或0则自动生成
+DOMAIN = "cnm.ak2.dpdns.org"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiNDE1Njk0MTA4ODE3N2RlMDYxZmUzNGI2ZjAyOWEwNTEiLCJ0IjoiZWZjOTM2MmQtNGNjZC00NWZiLThhNTctZGFlNzk0MDNmNjAyIiwicyI6Ik1qYzJZemhrTlRBdE5qUXhPUzAwWkdKakxUaGxabUV0WWpRM01XUmhOalV3TWpVMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
